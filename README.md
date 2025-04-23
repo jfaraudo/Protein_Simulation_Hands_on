@@ -1,2 +1,2 @@
-# Protein_Simulation_Hands_on
+# Protein Simulation
 Hands on introduction to protein simulation using NAMD
