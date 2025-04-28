@@ -1,6 +1,8 @@
 # Protein Simulation
 Hands on introduction to protein simulation using VMD and NAMD.
 The instructions for the preparation and execution of the simulation ara available [here](https://saco.csic.es/s/tY978DY4kzax3pK).
+Sample scripts and forcefield files for executing and analyzing NAMD simulations are available here:
+https://github.com/jfaraudo/Running_NAMD
 
 
 The data files correspond to an example simulation of the [human ubiquitin protein](https://www.rcsb.org/structure/1UBQ) (PDB code: 1UBQ) generated from experimental data.
