@@ -1,1 +1,1 @@
-Resultats exemple calsse dijous 16/4/26
+Resultats exemple classe dijous 16/4/26
