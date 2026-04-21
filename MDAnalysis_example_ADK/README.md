@@ -5,3 +5,4 @@ The example notebook follows closely (but not exactly) the official Quickstart t
 
 The dataset corresponds to the paper by [Beckstein et al., 2009](https://www.sciencedirect.com/science/article/pii/S0022283609011164?via%3Dihub) as in the official tutorial.
 
+Link with all files in a compressed zip file [here](https://saco.csic.es/s/Re2yikBwCJWDWX2)
