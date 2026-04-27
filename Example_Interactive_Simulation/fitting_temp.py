@@ -52,7 +52,7 @@ T=numpy.arange(tmin,tmax,0.005)
 plt.plot(T,tempboltz(T,tavg,sigma),'-k',lw=2,label='Theoretical\n Distribution')
 
 #Calculate a normalised histogram of the temperatures from the data 
-plt.hist(temps,density=1, bins=20)
+plt.hist(temps,density=1, bins=100)
 
 #Define axis
 plt.axis([tmin, tmax, 0, 0.1]) #axis([xmin,xmax,ymin,ymax])
